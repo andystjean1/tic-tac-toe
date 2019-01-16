@@ -1,2 +1,2 @@
 
-a tic tac toe GUI that is unbeatbale... still working on those features :)
+a tic tac toe GUI that is unbeatable... still working on those features :)
